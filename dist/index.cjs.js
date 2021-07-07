@@ -2196,21 +2196,21 @@ var links = [
             },
         ],
     },
-    {
-        label: 'Farms',
-        icon: 'FarmIcon',
-        href: '/farms',
-    },
-    {
-        label: 'Caves',
-        icon: 'CaveIcon',
-        href: '/caves',
-    },
-    {
-        label: 'Blizzard',
-        icon: 'PoolIcon',
-        href: '/pools',
-    },
+    // {
+        // label: 'Farms',
+        // icon: 'FarmIcon',
+        // href: '/farms',
+    // },
+    // {
+        // label: 'Caves',
+        // icon: 'CaveIcon',
+        // href: '/caves',
+    // },
+    // {
+        // label: 'Blizzard',
+        // icon: 'PoolIcon',
+        // href: '/pools',
+    // },
     {
         label: 'Info',
         icon: 'InfoIcon',
@@ -2231,7 +2231,7 @@ var links = [
     {
         label: 'Blog',
         icon: 'MediumIcon',
-        href: 'https://pixiuswap.medium.com',
+        href: 'https://pixiuswaptoken.medium.com',
         external: true,
     },
 ];

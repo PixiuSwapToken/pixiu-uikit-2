@@ -2218,7 +2218,7 @@ var links = [
     {
         label: 'Blog',
         icon: 'MediumIcon',
-        href: 'https://pixiuswap.medium.com',
+        href: 'https://pixiuswaptoken.medium.com',
         external: true,
     },
 ];
